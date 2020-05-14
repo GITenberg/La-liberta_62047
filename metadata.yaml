@@ -1,0 +1,29 @@
+_repo: La-liberta_62047
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Agnelli, Arnaldo
+    gutenberg_agent_id: '51751'
+    url: http://www.gutenberg.org/2009/agents/51751
+creator:
+  author:
+    agent_name: Mill, John Stuart
+    alias: Mill, J. S. (John Stuart)
+    birthdate: 1806
+    deathdate: 1873
+    gutenberg_agent_id: '1705'
+    url: http://www.gutenberg.org/2009/agents/1705
+    wikipedia: http://en.wikipedia.org/wiki/John_Stuart_Mill
+description: ''
+gutenberg_issued: '2020-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62047'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La libertà
+url: http://www.gutenberg.org/ebooks/62047
